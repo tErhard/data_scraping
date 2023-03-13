@@ -1,0 +1,192 @@
+Назва: Michelin Primacy 4 (195/65R15 91H)
+Ціна: 3 371
+Назва: Hankook Ventus Prime 3 K125 (195/65R15 91V)
+Ціна: 2 211
+Назва: Goodyear EfficientGrip Performance 2 (205/55R16 91H)
+Ціна: 3 464
+Назва: Goodyear EfficientGrip Performance (185/65R15 88H)
+Ціна: 2 458
+Назва: Nokian Hakka Green 3 (205/55R16 94H)
+Ціна: 2 879
+Назва: Goodyear EfficientGrip Performance (205/60R16 92H)
+Ціна: 3 673
+Назва: Nokian Nordman SX3 (195/65R15 91H)
+Ціна: 2 208
+Назва: Hankook Kinergy Eco 2 K435 (195/65R15 91H)
+Ціна: 2 177
+Назва: Toyo Proxes CF2 (195/65R15 91H)
+Ціна: 2 423
+Назва: Bridgestone Turanza T001 (215/60R16 95V)
+Ціна: 4 323
+Назва: Hankook VENTUS PRIME 4 K135 (205/55R16 91H)
+Ціна: 3 094
+Назва: Kleber Dynaxer HP4 (205/55R16 91H)
+Ціна: 2 387
+Назва: Bridgestone Turanza T005 (195/65R15 95H)
+Ціна: 2 694
+Назва: Goodyear EfficientGrip Performance (205/55R16 91V)
+Ціна: 3 119
+Назва: Uniroyal RainSport 5 (205/55R16 91V)
+Ціна: 2 539
+Назва: Michelin Pilot Sport 5 (225/40R18 92Y)
+Ціна: 4 897
+Назва: Nexen N Blue HD Plus (195/65R15 91H)
+Ціна: 2 028
+Назва: Goodyear EfficientGrip Performance 2 (195/65R15 91H)
+Ціна: 2 947
+Назва: Fulda EcoControl HP2 (195/65R15 91H)
+Ціна: 2 211
+Назва: Michelin Primacy 4 Plus (205/55R16 91W)
+Ціна: 4 079
+Назва: Hankook Ventus Prime 4 SUV K135A (225/65R17 102H)
+Ціна: 3 969
+Назва: Michelin Primacy 4 (205/60R16 92H)
+Ціна: 5 577
+Назва: Kumho Ecowing ES31 (205/55R16 91V)
+Ціна: 2 310
+Назва: Goodyear EfficientGrip Performance (215/55R17 94V)
+Ціна: 4 130
+Назва: Michelin Primacy 4 (195/65R15 91H)
+Ціна: 3 371
+Назва: Hankook Ventus Prime 3 K125 (195/65R15 91V)
+Ціна: 2 211
+Назва: Goodyear EfficientGrip Performance 2 (205/55R16 91H)
+Ціна: 3 464
+Назва: Goodyear EfficientGrip Performance (185/65R15 88H)
+Ціна: 2 458
+Назва: Nokian Hakka Green 3 (205/55R16 94H)
+Ціна: 2 879
+Назва: Goodyear EfficientGrip Performance (205/60R16 92H)
+Ціна: 3 673
+Назва: Nokian Nordman SX3 (195/65R15 91H)
+Ціна: 2 208
+Назва: Hankook Kinergy Eco 2 K435 (195/65R15 91H)
+Ціна: 2 177
+Назва: Toyo Proxes CF2 (195/65R15 91H)
+Ціна: 2 423
+Назва: Bridgestone Turanza T001 (215/60R16 95V)
+Ціна: 4 323
+Назва: Hankook VENTUS PRIME 4 K135 (205/55R16 91H)
+Ціна: 3 094
+Назва: Kleber Dynaxer HP4 (205/55R16 91H)
+Ціна: 2 387
+Назва: Bridgestone Turanza T005 (195/65R15 95H)
+Ціна: 2 694
+Назва: Goodyear EfficientGrip Performance (205/55R16 91V)
+Ціна: 3 119
+Назва: Uniroyal RainSport 5 (205/55R16 91V)
+Ціна: 2 539
+Назва: Michelin Pilot Sport 5 (225/40R18 92Y)
+Ціна: 4 897
+Назва: Nexen N Blue HD Plus (195/65R15 91H)
+Ціна: 2 028
+Назва: Goodyear EfficientGrip Performance 2 (195/65R15 91H)
+Ціна: 2 947
+Назва: Fulda EcoControl HP2 (195/65R15 91H)
+Ціна: 2 211
+Назва: Michelin Primacy 4 Plus (205/55R16 91W)
+Ціна: 4 079
+Назва: Hankook Ventus Prime 4 SUV K135A (225/65R17 102H)
+Ціна: 3 969
+Назва: Michelin Primacy 4 (205/60R16 92H)
+Ціна: 5 577
+Назва: Kumho Ecowing ES31 (205/55R16 91V)
+Ціна: 2 310
+Назва: Goodyear EfficientGrip Performance (215/55R17 94V)
+Ціна: 4 130
+Назва: Michelin Primacy 4 (195/65R15 91H)
+Ціна: 3 371
+Назва: Hankook Ventus Prime 3 K125 (195/65R15 91V)
+Ціна: 2 211
+Назва: Goodyear EfficientGrip Performance 2 (205/55R16 91H)
+Ціна: 3 464
+Назва: Goodyear EfficientGrip Performance (185/65R15 88H)
+Ціна: 2 458
+Назва: Nokian Hakka Green 3 (205/55R16 94H)
+Ціна: 2 879
+Назва: Goodyear EfficientGrip Performance (205/60R16 92H)
+Ціна: 3 673
+Назва: Nokian Nordman SX3 (195/65R15 91H)
+Ціна: 2 208
+Назва: Hankook Kinergy Eco 2 K435 (195/65R15 91H)
+Ціна: 2 177
+Назва: Toyo Proxes CF2 (195/65R15 91H)
+Ціна: 2 423
+Назва: Bridgestone Turanza T001 (215/60R16 95V)
+Ціна: 4 323
+Назва: Hankook VENTUS PRIME 4 K135 (205/55R16 91H)
+Ціна: 3 094
+Назва: Kleber Dynaxer HP4 (205/55R16 91H)
+Ціна: 2 387
+Назва: Bridgestone Turanza T005 (195/65R15 95H)
+Ціна: 2 694
+Назва: Goodyear EfficientGrip Performance (205/55R16 91V)
+Ціна: 3 119
+Назва: Uniroyal RainSport 5 (205/55R16 91V)
+Ціна: 2 539
+Назва: Michelin Pilot Sport 5 (225/40R18 92Y)
+Ціна: 4 897
+Назва: Nexen N Blue HD Plus (195/65R15 91H)
+Ціна: 2 028
+Назва: Goodyear EfficientGrip Performance 2 (195/65R15 91H)
+Ціна: 2 947
+Назва: Fulda EcoControl HP2 (195/65R15 91H)
+Ціна: 2 211
+Назва: Michelin Primacy 4 Plus (205/55R16 91W)
+Ціна: 4 079
+Назва: Hankook Ventus Prime 4 SUV K135A (225/65R17 102H)
+Ціна: 3 969
+Назва: Michelin Primacy 4 (205/60R16 92H)
+Ціна: 5 577
+Назва: Kumho Ecowing ES31 (205/55R16 91V)
+Ціна: 2 310
+Назва: Goodyear EfficientGrip Performance (215/55R17 94V)
+Ціна: 4 130
+Назва: Michelin Primacy 4 (195/65R15 91H)
+Ціна: 3 371
+Назва: Hankook Ventus Prime 3 K125 (195/65R15 91V)
+Ціна: 2 211
+Назва: Goodyear EfficientGrip Performance 2 (205/55R16 91H)
+Ціна: 3 464
+Назва: Goodyear EfficientGrip Performance (185/65R15 88H)
+Ціна: 2 458
+Назва: Nokian Hakka Green 3 (205/55R16 94H)
+Ціна: 2 879
+Назва: Goodyear EfficientGrip Performance (205/60R16 92H)
+Ціна: 3 673
+Назва: Nokian Nordman SX3 (195/65R15 91H)
+Ціна: 2 208
+Назва: Hankook Kinergy Eco 2 K435 (195/65R15 91H)
+Ціна: 2 177
+Назва: Toyo Proxes CF2 (195/65R15 91H)
+Ціна: 2 423
+Назва: Bridgestone Turanza T001 (215/60R16 95V)
+Ціна: 4 323
+Назва: Hankook VENTUS PRIME 4 K135 (205/55R16 91H)
+Ціна: 3 094
+Назва: Kleber Dynaxer HP4 (205/55R16 91H)
+Ціна: 2 387
+Назва: Bridgestone Turanza T005 (195/65R15 95H)
+Ціна: 2 694
+Назва: Goodyear EfficientGrip Performance (205/55R16 91V)
+Ціна: 3 119
+Назва: Uniroyal RainSport 5 (205/55R16 91V)
+Ціна: 2 539
+Назва: Michelin Pilot Sport 5 (225/40R18 92Y)
+Ціна: 4 897
+Назва: Nexen N Blue HD Plus (195/65R15 91H)
+Ціна: 2 028
+Назва: Goodyear EfficientGrip Performance 2 (195/65R15 91H)
+Ціна: 2 947
+Назва: Fulda EcoControl HP2 (195/65R15 91H)
+Ціна: 2 211
+Назва: Michelin Primacy 4 Plus (205/55R16 91W)
+Ціна: 4 079
+Назва: Hankook Ventus Prime 4 SUV K135A (225/65R17 102H)
+Ціна: 3 969
+Назва: Michelin Primacy 4 (205/60R16 92H)
+Ціна: 5 577
+Назва: Kumho Ecowing ES31 (205/55R16 91V)
+Ціна: 2 310
+Назва: Goodyear EfficientGrip Performance (215/55R17 94V)
+Ціна: 4 130
